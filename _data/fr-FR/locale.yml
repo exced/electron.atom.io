@@ -1,0 +1,20 @@
+tagline: Créer des applications bureau multi-plateformes avec Javascript, HTML et CSS
+Build cross platform desktop apps with JavaScript, HTML, and CS
+
+nav:
+  docs: Doc
+  blog: Blog
+  community: Commuautée
+  apps: Applications
+  userland: Userland
+  releases: Publications
+  contact: Contact
+
+electron_is_easy:
+  title: C'est plus facile que ce que vous pensez
+  description:
+    Si vous pouvez créer un site internet, vous pouvez créer une application bureau.
+    Electron est un outil pour créer des applications natives à partir de technologies web comme
+    Javascript, HTML et CSS. Il s'occupe du plus difficile pour que vous puissiez vous focaliser sur
+    le cœur de votre application.
+  video_link: Visionner la vidéo
